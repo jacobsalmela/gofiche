@@ -3,6 +3,7 @@
 
 # ignore default outpit dir
 code/
+pastes/
 
 # ignore log files
 *.log
